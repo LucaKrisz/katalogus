@@ -1,0 +1,20 @@
+{
+    "name": "krisztian/katalogus",
+    "description": "Small PHP 8 product catalog",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "LucaKrisz",
+            "email": "lucak93@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^8.4"
+    }
+}
