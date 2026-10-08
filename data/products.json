@@ -1,0 +1,7 @@
+[
+    {"id":1,"name":"Kézműves bögre","priceHuf":4500,"category":"ceramics"},
+    {"id":2,"name":"Agyagtáltál","priceHuf":6000,"category":"ceramics"},
+    {"id":3,"name":"Mézeskalács","priceHuf":1500,"category":"food"},
+    {"id":4,"name":"Lekvár","priceHuf":2500,"category":"food"},
+    {"id":5,"name":"Kézzel szőtt sál","priceHuf":8000,"category":"textile"} 
+]
